@@ -1,0 +1,6 @@
+{
+  "objects": ["square", "circle", "triangle", "background"],
+  "attributes": ["red", "blue", "green", "yellow"],
+  "relations": ["left of", "right of", "above", "below"],
+  "categories": ["square", "circle", "triangle"]
+}
