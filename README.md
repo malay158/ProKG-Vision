@@ -22,10 +22,6 @@ This repository presents a progressive knowledge-guided visual recognition frame
 | `scripts/audit_caption_leakage.py`    | Flags captions containing target class names                                                                                                                 |
 | `scripts/export_stagewise.py`         | Exports actual predicted stagewise scores for a results plot                                                                                                 |
 | `scripts/export_qualitative.py`       | Exports actual evidence probabilities, gates and selected regions                                                                                            |
-| `data/demo/`                          | 30 **original synthetic** image/speech pairs with sample processed annotations; not benchmark data                                                           |
-| `paper/`                              | Manuscript's methodology LaTeX source supplied for method correspondence                                                                                     |
-| `docs/`                               | Data sources, annotation schema, evaluation controls, and DAS templates                                                                                      |
-| `tests/`                              | Smoke tests for the six variants, labels, split-independent retrieval, and metrics                                                                           |
 
 ## 2. Install
 
